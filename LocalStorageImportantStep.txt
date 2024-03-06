@@ -1,0 +1,10 @@
+
+	=> LocalStorage 
+	*getItem
+	*setItem 
+	*removeItem
+	*clear
+	
+	=> object to string & string to object 
+	const variable = json.stringify(object);
+	const variable2 = json.parsr(varible);
